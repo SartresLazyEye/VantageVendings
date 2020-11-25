@@ -3,22 +3,22 @@
     "path": "C:/Users/alexs/Desktop/Blog/VantageVendings/config.toml",
     "project_path": "config.toml",
     "type": "toml",
-    "hash": "0",
+    "hash": "1974130463",
     "contents": "",
     "dirty": false,
     "created": 1606333179560.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
-        "cursorPosition": "25,22",
+        "cursorPosition": "3,15",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1606334343,
+    "lastKnownWriteTime": 1606334636,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1606334343177,
+    "last_content_update": 1606334636031,
     "read_only": false,
     "read_only_alternatives": []
 }
