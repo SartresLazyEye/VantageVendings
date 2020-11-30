@@ -10,7 +10,7 @@ fee: '$0'
 image: images/courses/course-1.jpg
 teacher: Clark Malik
 title: Soda Machine
-type: Vending Machine
+type: course
 weekly: 24/7 Service
 ---
 
