@@ -43,24 +43,22 @@ banner_feature:
   image : "images/banner/banner-feature.png"
   feature_item:
     # feature item loop
-    - name : "Scholorship News"
-      icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+    - name : "Vending Repairs"
+      icon : "ti-headphone-alt" # icon pack : https://themify.me/themify-icons
+      content : "We promise to provide high quality machines. If there are any issues with the machines, we have a customer support hotline to contact that would ensure our techinicians fix it in a timerly manner"    # feature item loop
+    - name : "Fast Delivery"
+      icon : "ti-truck" # icon pack : https://themify.me/themify-icons
+      content : "If you decide to contract with us, we promise fast installation of machines and flexible delivery times for stocking machines that cater to all the needs of small businesses. "
 
     # feature item loop
-    - name : "Our Notice Board"
-      icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+    - name : "Profit Increase"
+      icon : "ti-bar-chart" # icon pack : https://themify.me/themify-icons
+      content : "Not only will the installation of our machines improve customer and worker satisfaction at your business, we give a large percentage of our profits to the business to ensure they make money, too."
 
     # feature item loop
-    - name : "Our Achievements"
-      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
-
-    # feature item loop
-    - name : "Admission Now"
-      icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+    - name : "Free Installation"
+      icon : "ti-gift" # icon pack : https://themify.me/themify-icons
+      content : "To incentivize businesses to install our machines, we promise to install them and repair them all free of cost. We promise to provide everything you need so you can use your time to maximize your business."
 
 
 ############################## about ##################################
