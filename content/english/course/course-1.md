@@ -1,16 +1,16 @@
 ---
 apply_url: '#'
 bg_image: images/backgrounds/page-title.jpg
-category: Photography
+category: Dixie Narco BevMax Bottle/Can Beverage Machine Model 2054
 date: "2019-07-06T15:27:17+06:00"
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.
+description: Dixie Narco BevMax Bottle/Can Beverage Machine Model 2054
 draft: false
 duration: 12 Month Contract
 fee: '$0'
 image: images/courses/course-1.jpg
 teacher: Clark Malik
-title: Photography
-type: course
+title: Dixie Narco BevMax Bottle/Can Beverage Machine Model 2054
+type: Vending Machine
 weekly: 24/7 Service
 ---
 
