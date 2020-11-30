@@ -72,7 +72,7 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 
 # google map
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyB4ZiVDARXPt4dDDs9sm7Tz9rG1BPt2vwE"
 map_latitude = "28.3684534"
 map_longitude = "-81.4300441"
