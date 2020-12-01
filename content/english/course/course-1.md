@@ -8,7 +8,7 @@ draft: false
 duration: 12 Month Contract
 fee: '$0'
 image: images/courses/course-1.jpg
-teacher: Clark Malik
+teacher: Vending World
 title: Dixie Narco BevMax
 type: course
 weekly: 24/7 Service
