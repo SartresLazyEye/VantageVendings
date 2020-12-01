@@ -1,17 +1,18 @@
 ---
 apply_url: '#'
 bg_image: images/backgrounds/page-title.jpg
-category: Mathematics
+category: Soda Machine
 date: "2019-07-06T15:27:17+06:00"
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.
+description: Vendo Model 407 12 oz Can Vending Machine - Dr Pepper
+Vendo Model 407 12 oz Can Vending Machine (PGSD) - Pepsi New Age Ultra
 draft: false
-duration: 06 Month
-fee: 'From: $699'
+duration: 12 Month Contract
+fee: '$0'
 image: images/courses/course-2.jpg
-teacher: Jacke Mastio
-title: Mathematics
+teacher: Clark Malik
+title: Vendo Model 407
 type: course
-weekly: 03 hours
+weekly: 24/7 Service
 ---
 
 
@@ -28,34 +29,17 @@ consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porr
 ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
 labore et dolore magnam aliquam quaerat voluptatem.</p>
 
-### Requirements
+### About Soda Machine
 
 
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
+### Features
 
-
-### How to Apply
-
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-
-
-### Fees and Funding
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+* Vendo
+* Pepsi
+* New Age Ultra
+* Multi Price
+* Accepts Coins
+* Accepts $1 Bills
+* 8 Selections
+* 381+ 12oz Cans
